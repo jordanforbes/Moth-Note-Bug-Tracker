@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fh/1NM2gM3zGoaJjSfz5LMFbuxgR22RuB22FTUpby9uf/7OjLTUf2rCzmqECfUjCHndBUj1v6bx4KWctGMdhUQ==",
+  "success": true,
+  "projectFilePath": "/Users/jordanforbes/Projects/Moth_Note/Moth_Note/Moth_Note.csproj",
+  "expectedPackageFiles": [
+    "/Users/jordanforbes/.nuget/packages/npgsql/6.0.4/npgsql.6.0.4.nupkg.sha512",
+    "/Users/jordanforbes/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
